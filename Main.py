@@ -1,1 +1,1 @@
-print("bad apple")
+print("There are no mistakes only T-Spin setups")
